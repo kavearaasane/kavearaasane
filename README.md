@@ -1,8 +1,8 @@
 
 ### About me🧑:
 Hi I am Kave <br/>
-I am Computer Engineering student.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+I am a Computer Engineering student.<br/>
+I am interested in learning DS, ML, AI and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
