@@ -10,7 +10,7 @@ I'm a passionate B.Tech Computer Science student at Sri Manakula Vinyagar Engine
 - **Tools:** Power BI, Excel, Mlflow, Docker
 - **Version Control:** Git, GitHub
 - **Frameworks:** TensorFlow
-- **DevOps:** CI/CD Pipelines
+- **MLOps:** CI/CD Pipelines
 - **Cloud:** AWS
 
 ## 🛠️ Projects
